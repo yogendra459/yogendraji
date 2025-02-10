@@ -36,7 +36,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer2">
-        <h1>Thankyou for Support</h1>
+        <h1>Thankyou 😊</h1>
       </div>
       <div className="line"></div>
       <div className="madeby">
