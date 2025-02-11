@@ -1,13 +1,11 @@
 import {
-  
-  FaTwitter,
   FaFacebook,
-  
   FaInstagram,
   FaLinkedin,
   FaWhatsapp,
 } from "react-icons/fa";
-import {  FaXTwitter } from "react-icons/fa6";
+import { FaXTwitter } from "react-icons/fa6";  
+
 export default function Footer() {
   return (
     <div className="footer">
@@ -21,11 +19,9 @@ export default function Footer() {
             <FaXTwitter size={24} color="white" />
           </a>
           <a href="https://www.facebook.com/share/1AC2y44iLQ/">
-            {" "}
             <FaFacebook size={24} color="blue" />
           </a>
           <a href="https://wa.me/919351710503">
-            {" "}
             <FaWhatsapp size={24} color="25D366" />
           </a>
 
